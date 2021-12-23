@@ -1,4 +1,4 @@
-# maker 1.0
+# maker 1.1
 make(define) python's
 >lambda
 >
